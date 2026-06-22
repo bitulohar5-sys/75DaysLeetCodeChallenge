@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
