@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 ## Geometry
 |  |
