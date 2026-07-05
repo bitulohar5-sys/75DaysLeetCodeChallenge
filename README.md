@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0221-maximal-square) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -423,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0212-word-search-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 ## Data Stream
