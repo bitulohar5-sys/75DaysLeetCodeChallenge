@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
+| [0139-word-break](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
@@ -411,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
@@ -464,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
