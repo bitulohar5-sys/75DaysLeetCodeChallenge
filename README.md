@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
