@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
@@ -452,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
