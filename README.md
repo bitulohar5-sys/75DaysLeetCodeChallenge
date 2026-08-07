@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -465,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
+| [0095-unique-binary-search-trees-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0212-word-search-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 ## Data Stream
 |  |
