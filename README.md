@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0204-count-primes](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Counting Sort
 |  |
@@ -541,4 +544,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
