@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0542-01-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 ## Sliding Window
 |  |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0221-maximal-square) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 ## Linked List
 |  |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 ## Binary Tree
 |  |
