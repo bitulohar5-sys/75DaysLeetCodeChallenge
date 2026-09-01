@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
+| [0382-linked-list-random-node](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0382-linked-list-random-node) |
 | [0509-fibonacci-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Monotonic Stack
@@ -350,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
+| [0382-linked-list-random-node](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -574,4 +576,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
