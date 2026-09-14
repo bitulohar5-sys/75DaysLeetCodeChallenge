@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0147-insertion-sort-list) |
+| [0148-sort-list](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
@@ -620,4 +624,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0608-tree-node](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0608-tree-node) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
