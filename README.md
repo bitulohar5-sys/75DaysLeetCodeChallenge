@@ -269,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
+| [0397-integer-replacement](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0746-min-cost-climbing-stairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
+| [0397-integer-replacement](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0397-integer-replacement) |
 ## Union-Find
 |  |
 | ------- |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
+| [0397-integer-replacement](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0397-integer-replacement) |
 | [0621-task-scheduler](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 ## Graph Theory
 |  |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
+| [0397-integer-replacement](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
