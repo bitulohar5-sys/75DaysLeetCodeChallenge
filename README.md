@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0127-word-ladder](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0097-interleaving-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
 | [0199-binary-tree-right-side-view](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
@@ -645,4 +648,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0164-maximum-gap) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
