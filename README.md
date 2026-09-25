@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
