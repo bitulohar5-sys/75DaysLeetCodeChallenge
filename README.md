@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0212-word-search-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 ## Data Stream
 |  |
 | ------- |
