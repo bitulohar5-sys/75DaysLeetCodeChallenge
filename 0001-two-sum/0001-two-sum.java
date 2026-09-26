@@ -5,12 +5,12 @@ class Solution {
 
         HashMap<Integer, Integer> map = new HashMap<>();
 
-        // Fill HashMap
+        
         for(int i = 0; i < nums.length; i++){
             map.put(nums[i], i);
         }
 
-        // Searching
+    
         for(int i = 0; i < nums.length; i++){
             int num = nums[i];
             int rem = target - num;
