@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
+| [0336-palindrome-pairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0336-palindrome-pairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
+| [0336-palindrome-pairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
@@ -503,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0336-palindrome-pairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0336-palindrome-pairs) |
 | [0572-subtree-of-another-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
 |  |
@@ -522,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
+| [0336-palindrome-pairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0336-palindrome-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
