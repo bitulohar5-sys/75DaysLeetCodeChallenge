@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0730-count-different-palindromic-subsequences](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0730-count-different-palindromic-subsequences) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0777-swap-adjacent-in-lr-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0457-circular-array-loop](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0457-circular-array-loop) |
 | [0567-permutation-in-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
+| [0777-swap-adjacent-in-lr-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0876-middle-of-the-linked-list](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
