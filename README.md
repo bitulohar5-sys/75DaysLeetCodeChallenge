@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0730-count-different-palindromic-subsequences](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0730-count-different-palindromic-subsequences) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0777-swap-adjacent-in-lr-string) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0730-count-different-palindromic-subsequences](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0730-count-different-palindromic-subsequences) |
 | [0746-min-cost-climbing-stairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
