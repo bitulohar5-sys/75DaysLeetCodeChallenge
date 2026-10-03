@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0310-minimum-height-trees) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0543-diameter-of-binary-tree) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
+| [0310-minimum-height-trees](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -593,11 +595,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0310-minimum-height-trees) |
 | [0997-find-the-town-judge](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
+| [0310-minimum-height-trees](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0310-minimum-height-trees) |
 ## Memoization
 |  |
 | ------- |
