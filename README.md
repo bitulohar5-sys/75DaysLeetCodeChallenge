@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0091-decode-ways) |
