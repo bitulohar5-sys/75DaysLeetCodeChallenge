@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0336-palindrome-pairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0336-palindrome-pairs) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0457-circular-array-loop](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0457-circular-array-loop) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0400-nth-digit](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0400-nth-digit) |
 | [0493-reverse-pairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
@@ -552,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0397-integer-replacement) |
@@ -685,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 ## Bidirectional Search
 |  |
 | ------- |
@@ -692,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0457-circular-array-loop](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0457-circular-array-loop) |
 ## Binary Indexed Tree
 |  |
