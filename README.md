@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0336-palindrome-pairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0457-circular-array-loop) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0414-third-maximum-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
 | [0621-task-scheduler](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
