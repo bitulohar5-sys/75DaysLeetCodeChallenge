@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
+| [0420-strong-password-checker](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0420-strong-password-checker) |
 | [0424-longest-repeating-character-replacement](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0420-strong-password-checker](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0420-strong-password-checker) |
 | [0621-task-scheduler](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/1046-last-stone-weight) |
@@ -626,6 +628,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 | [0397-integer-replacement](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0397-integer-replacement) |
 | [0402-remove-k-digits](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
+| [0420-strong-password-checker](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0420-strong-password-checker) |
 | [0621-task-scheduler](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 ## Graph Theory
 |  |
