@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0457-circular-array-loop) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
+| [0389-find-the-difference](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
 | [0621-task-scheduler](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0336-palindrome-pairs) |
 | [0344-reverse-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0397-integer-replacement) |
 ## Union-Find
 |  |
