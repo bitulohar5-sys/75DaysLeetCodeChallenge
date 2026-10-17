@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0457-circular-array-loop) |
 | [0493-reverse-pairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0221-maximal-square) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
+| [0498-diagonal-traverse](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 ## Linked List
@@ -664,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0498-diagonal-traverse](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0498-diagonal-traverse) |
 ## Geometry
 |  |
 | ------- |
