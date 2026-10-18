@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
+| [0773-sliding-puzzle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0773-sliding-puzzle) |
 | [0875-koko-eating-bananas](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0730-count-different-palindromic-subsequences](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0730-count-different-palindromic-subsequences) |
 | [0746-min-cost-climbing-stairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
+| [0773-sliding-puzzle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0773-sliding-puzzle) |
 ## Sliding Window
 |  |
 | ------- |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [0773-sliding-puzzle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0773-sliding-puzzle) |
 ## Linked List
 |  |
 | ------- |
@@ -530,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0542-01-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
+| [0773-sliding-puzzle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0773-sliding-puzzle) |
 ## Binary Tree
 |  |
 | ------- |
@@ -625,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0212-word-search-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
+| [0773-sliding-puzzle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0773-sliding-puzzle) |
 ## Data Stream
 |  |
 | ------- |
@@ -660,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0397-integer-replacement) |
 | [0509-fibonacci-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0773-sliding-puzzle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0773-sliding-puzzle) |
 ## Simulation
 |  |
 | ------- |
@@ -740,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0127-word-ladder) |
+| [0773-sliding-puzzle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0773-sliding-puzzle) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -773,4 +780,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0399-evaluate-division) |
+## Heuristic Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0773-sliding-puzzle) |
+## A* Search
+|  |
+| ------- |
+| [0773-sliding-puzzle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0773-sliding-puzzle) |
 <!---LeetCode Topics End-->
