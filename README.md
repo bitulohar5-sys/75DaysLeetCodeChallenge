@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
+| [0214-shortest-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
@@ -561,10 +562,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0336-palindrome-pairs) |
 | [0572-subtree-of-another-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
 ## Binary Search Tree
@@ -788,4 +791,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0773-sliding-puzzle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0773-sliding-puzzle) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
