@@ -1,0 +1,33 @@
+
+class Solution {
+    public String shortestPalindrome(String s) {
+        String rev = new StringBuilder(s).reverse().toString();
+
+        String combined = s + "#" + rev;
+        int n = combined.length();
+
+        int[] lps = new int[n];
+
+        // Build the LPS array
+        for (int i = 1; i < n; i++) {
+            int j = lps[i - 1];
+
+            while (j > 0 && combined.charAt(i) != combined.charAt(j)) {
+                j = lps[j - 1];
+            }
+
+            if (combined.charAt(i) == combined.charAt(j)) {
+                j++;
+            }
+
+            lps[i] = j;
+        }
+
+        int palindromicPrefixLength = lps[n - 1];
+
+        String prefixToAdd = rev.substring(0,
+                s.length() - palindromicPrefixLength);
+
+        return prefixToAdd + s;
+    }
+}
