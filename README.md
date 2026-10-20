@@ -731,6 +731,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0175-combine-two-tables) |
 | [0180-consecutive-numbers](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0180-consecutive-numbers) |
 | [0608-tree-node](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0608-tree-node) |
 ## Merge Sort
