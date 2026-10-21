@@ -394,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
+| [0365-water-and-jug-problem](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0382-linked-list-random-node) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0310-minimum-height-trees) |
+| [0365-water-and-jug-problem](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0310-minimum-height-trees](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -810,4 +813,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
