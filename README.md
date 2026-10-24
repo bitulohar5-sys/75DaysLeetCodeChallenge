@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0457-circular-array-loop) |
 | [0493-reverse-pairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0397-integer-replacement) |
+| [0494-target-sum](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0516-longest-palindromic-subsequence) |
 | [0542-01-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
@@ -650,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0095-unique-binary-search-trees-ii) |
 | [0212-word-search-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
+| [0494-target-sum](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0773-sliding-puzzle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0773-sliding-puzzle) |
 ## Data Stream
 |  |
@@ -843,4 +846,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
