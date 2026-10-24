@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0336-palindrome-pairs) |
 | [0347-top-k-frequent-elements](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0214-shortest-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0299-bulls-and-cows](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0299-bulls-and-cows) |
 | [0301-remove-invalid-parentheses](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
 | [0336-palindrome-pairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0336-palindrome-pairs) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
+| [0299-bulls-and-cows](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 ## Quickselect
