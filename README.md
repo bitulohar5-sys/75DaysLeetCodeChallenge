@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0384-shuffle-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0384-shuffle-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0707-design-linked-list](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0707-design-linked-list) |
 ## Queue
 |  |
 | ------- |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0382-linked-list-random-node) |
+| [0707-design-linked-list](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
