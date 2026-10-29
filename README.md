@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0696-count-binary-substrings) |
 | [0730-count-different-palindromic-subsequences](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0730-count-different-palindromic-subsequences) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0777-swap-adjacent-in-lr-string) |
+| [0796-rotate-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0214-shortest-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0214-shortest-palindrome) |
 | [0572-subtree-of-another-tree](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0572-subtree-of-another-tree) |
+| [0796-rotate-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
