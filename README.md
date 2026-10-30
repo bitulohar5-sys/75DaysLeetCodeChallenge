@@ -425,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0400-nth-digit) |
 | [0509-fibonacci-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0866-prime-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0866-prime-palindrome) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Monotonic Stack
 |  |
@@ -728,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0866-prime-palindrome) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Counting Sort
 |  |
@@ -749,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
+| [0866-prime-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0866-prime-palindrome) |
 ## Sieve Theory
 |  |
 | ------- |
