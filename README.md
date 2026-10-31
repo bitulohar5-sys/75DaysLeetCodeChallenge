@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [0745-prefix-and-suffix-search](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0745-prefix-and-suffix-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0773-sliding-puzzle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0773-sliding-puzzle) |
 | [0875-koko-eating-bananas](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0745-prefix-and-suffix-search](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0745-prefix-and-suffix-search) |
 | [0904-fruit-into-baskets](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 ## Sorting
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0696-count-binary-substrings) |
 | [0730-count-different-palindromic-subsequences](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0730-count-different-palindromic-subsequences) |
+| [0745-prefix-and-suffix-search](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0745-prefix-and-suffix-search) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0777-swap-adjacent-in-lr-string) |
 | [0796-rotate-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 ## Divide and Conquer
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0384-shuffle-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0384-shuffle-an-array) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0707-design-linked-list](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0707-design-linked-list) |
+| [0745-prefix-and-suffix-search](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0745-prefix-and-suffix-search) |
 ## Queue
 |  |
 | ------- |
@@ -632,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0336-palindrome-pairs) |
+| [0745-prefix-and-suffix-search](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0745-prefix-and-suffix-search) |
 ## Bit Manipulation
 |  |
 | ------- |
