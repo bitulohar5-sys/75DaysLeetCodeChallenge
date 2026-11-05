@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0368-largest-divisible-subset](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0384-shuffle-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0384-shuffle-an-array) |
+| [0391-perfect-rectangle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
+| [0391-perfect-rectangle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0391-perfect-rectangle) |
 | [0409-longest-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0382-linked-list-random-node](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0382-linked-list-random-node) |
 | [0384-shuffle-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0384-shuffle-an-array) |
+| [0391-perfect-rectangle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0400-nth-digit) |
 | [0509-fibonacci-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
@@ -752,6 +755,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0391-perfect-rectangle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0391-perfect-rectangle) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Number Theory
 |  |
@@ -909,4 +913,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
