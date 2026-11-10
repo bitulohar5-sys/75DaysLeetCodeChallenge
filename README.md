@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0773-sliding-puzzle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0773-sliding-puzzle) |
 | [0907-sum-of-subarray-minimums](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
+| [1012-numbers-with-repeated-digits](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/1012-numbers-with-repeated-digits) |
 ## Sliding Window
 |  |
 | ------- |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0539-minimum-time-difference](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0564-find-the-closest-palindrome) |
 | [0866-prime-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0866-prime-palindrome) |
+| [1012-numbers-with-repeated-digits](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/1012-numbers-with-repeated-digits) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Monotonic Stack
 |  |
