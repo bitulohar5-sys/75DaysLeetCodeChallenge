@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0498-diagonal-traverse) |
+| [0500-keyboard-row](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0500-keyboard-row) |
 | [0539-minimum-time-difference](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0420-strong-password-checker](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0420-strong-password-checker) |
 | [0424-longest-repeating-character-replacement](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0472-concatenated-words](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0472-concatenated-words) |
+| [0500-keyboard-row](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0564-find-the-closest-palindrome) |
