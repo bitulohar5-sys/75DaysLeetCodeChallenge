@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0322-coin-change) |
 | [0336-palindrome-pairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0336-palindrome-pairs) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
@@ -773,6 +775,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
+| [0289-game-of-life](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0498-diagonal-traverse) |
 ## Geometry
 |  |
