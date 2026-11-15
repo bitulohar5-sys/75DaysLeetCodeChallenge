@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0730-count-different-palindromic-subsequences](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0730-count-different-palindromic-subsequences) |
 | [0746-min-cost-climbing-stairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0773-sliding-puzzle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0773-sliding-puzzle) |
+| [0790-domino-and-tromino-tiling](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0790-domino-and-tromino-tiling) |
 | [0907-sum-of-subarray-minimums](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 | [1012-numbers-with-repeated-digits](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/1012-numbers-with-repeated-digits) |
 ## Sliding Window
