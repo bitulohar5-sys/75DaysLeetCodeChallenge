@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0498-diagonal-traverse) |
 | [0500-keyboard-row](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0500-keyboard-row) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0539-minimum-time-difference) |
 | [0542-01-matrix](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0457-circular-array-loop](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0457-circular-array-loop) |
 | [0496-next-greater-element-i](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0500-keyboard-row) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
 | [0472-concatenated-words](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0472-concatenated-words) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0539-minimum-time-difference](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0539-minimum-time-difference) |
 | [0621-task-scheduler](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0977-squares-of-a-sorted-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0457-circular-array-loop](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0457-circular-array-loop) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0696-count-binary-substrings](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0696-count-binary-substrings) |
 | [0777-swap-adjacent-in-lr-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0777-swap-adjacent-in-lr-string) |
@@ -344,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0400-nth-digit](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0400-nth-digit) |
 | [0493-reverse-pairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0493-reverse-pairs) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0704-binary-search](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
 ## Dynamic Programming
