@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
 | [0384-shuffle-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0384-shuffle-an-array) |
 | [0391-perfect-rectangle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0391-perfect-rectangle) |
+| [0393-utf-8-validation](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
+| [0393-utf-8-validation](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0397-integer-replacement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0693-binary-number-with-alternating-bits) |
 ## Union-Find
