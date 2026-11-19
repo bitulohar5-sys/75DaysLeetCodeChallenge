@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
 | [0365-water-and-jug-problem](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0365-water-and-jug-problem) |
 | [0368-largest-divisible-subset](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0368-largest-divisible-subset) |
@@ -971,4 +972,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0284-peeking-iterator) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
