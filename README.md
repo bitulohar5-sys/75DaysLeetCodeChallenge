@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0773-sliding-puzzle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0773-sliding-puzzle) |
 | [0875-koko-eating-bananas](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0907-sum-of-subarray-minimums) |
 | [0977-squares-of-a-sorted-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
