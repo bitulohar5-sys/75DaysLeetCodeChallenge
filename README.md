@@ -724,6 +724,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0393-utf-8-validation](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0397-integer-replacement) |
+| [0401-binary-watch](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0693-binary-number-with-alternating-bits) |
 ## Union-Find
 |  |
@@ -753,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0212-word-search-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
+| [0401-binary-watch](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0494-target-sum) |
 | [0773-sliding-puzzle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0773-sliding-puzzle) |
 ## Data Stream
