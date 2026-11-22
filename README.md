@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
+| [0697-degree-of-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0621-task-scheduler) |
+| [0697-degree-of-an-array](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0697-degree-of-an-array) |
 | [0745-prefix-and-suffix-search](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0745-prefix-and-suffix-search) |
 | [0904-fruit-into-baskets](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0904-fruit-into-baskets) |
 | [0997-find-the-town-judge](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
