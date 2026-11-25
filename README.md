@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0396-rotate-function) |
 | [0400-nth-digit](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0400-nth-digit) |
 | [0412-fizz-buzz](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0412-fizz-buzz) |
+| [0492-construct-the-rectangle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0492-construct-the-rectangle) |
 | [0509-fibonacci-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0564-find-the-closest-palindrome) |
