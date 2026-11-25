@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0539-minimum-time-difference) |
 | [0564-find-the-closest-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0564-find-the-closest-palindrome) |
+| [0593-valid-square](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0593-valid-square) |
 | [0866-prime-palindrome](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0866-prime-palindrome) |
 | [1012-numbers-with-repeated-digits](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/1012-numbers-with-repeated-digits) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
@@ -813,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0391-perfect-rectangle) |
+| [0593-valid-square](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/0593-valid-square) |
 | [2280-minimum-lines-to-represent-a-line-chart](https://github.com/bitulohar5-sys/75DaysLeetCodeChallenge/tree/master/2280-minimum-lines-to-represent-a-line-chart) |
 ## Number Theory
 |  |
